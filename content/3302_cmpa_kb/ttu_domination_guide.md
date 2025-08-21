@@ -1,6 +1,6 @@
 ---
-title: TTU Domination Guide – Universal Edition
-created: 2025-08-12
+title: "TTU Domination Guide – Universal Edition"
+created: "2025-08-12"
 ---
 
 # TTU Domination Guide – Universal Edition  
