@@ -1,7 +1,3 @@
----
-title: About Me
----
-
 # John E. Barkle IV  
 
 📍 McAllen, TX | 📞 503-781-4275 | ✉️ johnbarkle@msn.com | [linkedin.com/in/john-barkle4](https://www.linkedin.com/in/john-barkle4)  
