@@ -3,7 +3,7 @@ title: Welcome to DigiPort Ai Intgrated Solutions Texas Tech Edition
 ---
 
 <p align="center">
-  <img src="/ttu_knowledge_base/assets/splash_screen.png" alt="Red dragon splash artwork for DigiPort AI Data Portal" width="700">
+<img src="/ttu_knowledge_base/assets/splash_screen.png" alt="DigiPort AI splash screen" width="700">
  </p>
 
 ## It Begins 
