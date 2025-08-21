@@ -1,5 +1,5 @@
 ---
-title: KSA Vault for John Barkle
+title: "KSA Vault for John Barkle"
 ---
 ## KSA Log – Thread 1: LinkedIn Premium Optimization (2025-08-21-a)
 
