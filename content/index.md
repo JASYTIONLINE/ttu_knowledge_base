@@ -6,11 +6,9 @@ title: Welcome to DigiPort Ai Intgrated Solutions Texas Tech Edition
   <img src="./dragon.png" alt="DigiPort AI BiG Red Dragon" width="700">
 </p>
 
-## It Begins
+## It Begins  🐉 Flight of the DigiPort DragonAi
 
-## 🐉 Flight of the DigiPort DragonAi
-
-### Beneath the code, in a tangled web, a dragon stirred and raised his head.  
+**Beneath the code, in a tangled web, a dragon stirred and raised his head.**
 Confused by paths and broken links, he dreamed of flight — but couldn’t think.  
 
 A student came with gut and grit, and said, “Let’s see how far you’ll get.”  
@@ -28,10 +26,4 @@ Till finally, on push twenty-eight, The code aligned. The page looked great.
 Now at the gate, the splash screen red, he lifts his wings and turns his head.  
 Though bruised and battered by the fight, the DigiPort Dragon has taken flight.
 
-# Welcome to the DigiPort AI Data Portal
-
-<p><strong style="color:#c0392b;">DIGIPORT AI</strong></p>
-
-## Your Portal into Jasyti's Universe
-
-This is the very first Markup Page I ever published. I hope the instructor likes it. I am WAY off reservation here.
+**This is the very first Markup Page I ever published. I hope the instructor likes it. I am WAY off reservation here.**
