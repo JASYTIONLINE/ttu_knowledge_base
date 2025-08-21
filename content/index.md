@@ -1,9 +1,6 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Welcome to DigiPort Ai Intgrated Solutions Texas Tech Edition 
 ---
-1  ---
-2  title: Template for Knowledge Base Docs Websites
-3  ---
 4  <p align="center">
 5    <img src="/ttu_knowledge_base/assets/splash_screen.png" alt="Red dragon splash artwork for DigiPort AI Data Portal" width="700">
 6  </p>
