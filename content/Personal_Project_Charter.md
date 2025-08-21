@@ -1,3 +1,7 @@
+---
+title: Project Charter for TTU Early Fall
+---
+
 # John E. Barkle IV
 
 ## Course Goals

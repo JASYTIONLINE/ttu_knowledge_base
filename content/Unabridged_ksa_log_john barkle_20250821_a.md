@@ -1,4 +1,6 @@
-
+---
+title: KSA Vault for John Barkle
+---
 ## KSA Log – Thread 1: LinkedIn Premium Optimization (2025-08-21-a)
 
 The following table contains extracted KSAs from a planning and execution thread related to optimizing a 30-day trial of LinkedIn Premium. Each row represents a single KSA for searchability and export purposes.
